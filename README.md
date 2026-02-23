@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, I'm Özgür Bülüm Junior Software Developer</h1>
-<h3 align="center">I am Özgür Bülüm from Turkey. I am improving myself in the field of Design and Development. I am interested in both backend and frontend parts, besides, I like to learn new languages ​​and I am also interested in Python and mobile field.</h3>
-
 <h1 align="center">Hi 👋, I'm Özgür Bülüm</h1>
-<h3 align="center">Unity Game Developer in Progress 🚀</h3>
+<h3 align="center">Unity Game Developer (C#) 🚀</h3>
 
 ---
 
 ## 🎯 About Me
 
-- 🎮 Focused on **C# & Unity Game Development**
-- 📅 Following a structured **7-Month Intensive Unity Plan**
-- 🧠 Building game mechanics weekly and publishing playable builds
-- 🔥 Long-term goal: Build a recognized game development brand — **freedX**
+- 🎮 Focused entirely on **C# & Unity Game Development**
+- 📅 Following a disciplined **7-Month Intensive Unity Roadmap**
+- 🧠 Building structured, versioned, playable systems weekly
+- 🔥 Long-term goal: Establish a recognized game development brand — **freedX**
 
 ---
 
-## 🚀 Current Learning Path
+## 🚀 Core Focus
 
-- C# Fundamentals & Clean Code
-- Unity Physics System
+- C# Fundamentals & Clean Architecture
+- Unity Physics System (Rigidbody, Collisions)
 - Raycast & Character Controllers
-- FixedUpdate vs Update architecture
-- Version control with Git
-- Releasing playable builds with proper versioning
+- Update vs FixedUpdate architecture
+- Game systems (Save/Load, UI, Skill systems)
+- Git version control & release management
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Work
 
 ### 🎮 Unity Character Controller
 - Raycast ground detection
-- Air control system
-- Physics-based movement
-- Structured movement architecture
+- Air control mechanics
+- Physics-based movement system
+- Modular movement architecture
 
-### 📜 C# Console RPG System
-- Character creation system
-- Quest logic
-- Skill Point system
-- JSON Save/Load system
+### 📜 C# RPG System
+- Character creation
+- Quest management
+- Skill point progression
+- JSON save/load structure
 
 ---
 
@@ -52,12 +49,12 @@
 
 ---
 
-## 📦 Development Philosophy
+## 📦 Development Principles
 
-- Write clean, readable code
 - Build playable systems, not just scripts
-- Version every meaningful progress
-- Ship small, improve continuously
+- Write readable, maintainable code
+- Version meaningful progress
+- Improve weekly through iteration
 
 ---
 
